@@ -1,0 +1,7 @@
+from oxford_dictionaries_python_sdk.paths.entries_source_translation_language_word_id_translationstarget_translation_language.get import ApiForget
+
+
+class EntriesSourceTranslationLanguageWordIdTranslationstargetTranslationLanguage(
+    ApiForget,
+):
+    pass
